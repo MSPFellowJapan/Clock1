@@ -11,7 +11,7 @@
 
 ![new_project](https://dl.dropboxusercontent.com/u/59753988/StoreappSampleThumb/new_project.png)
 
-Clock１でプロジェクト作成します．
+固定レイアウトアプリケーションでプロジェクト名をClock１とし，作成します．
 
 ##構造の作成
 ------------------
@@ -102,7 +102,7 @@ body {
 
 実行すると以下のように中央に大きく表示されます．
 
-![実行画面](https://dl.dropboxusercontent.com/u/59753988/StoreappSampleThumb/new_project.png)
+![実行画面](https://dl.dropboxusercontent.com/u/59753988/StoreappSampleThumb/1.png)
 
 これで見た目が完成しました．
 

@@ -16,7 +16,7 @@
         m = current.getMinutes();
         s = current.getSeconds();
         hours.innerText = h;
-        minutes.innerText = ((m < 10)? "0" : "" )+ m;
+        minutes.innerText = ((m < 10)? "0" : "" ) + m;
         seconds.innerText = ((s < 10) ? "0" : "") + s;
         setTimeout(update, 1000);
     }
