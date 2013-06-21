@@ -9,7 +9,7 @@
 ------------------
 ファイル->新規作成->プロジェクトを選択してプロジェクトを作成します．
 
-![new_project](https://dl.dropboxusercontent.com/u/59753988/StoreappSampleThumb/new_project.pn)
+![new_project](https://dl.dropboxusercontent.com/u/59753988/StoreappSampleThumb/new_project.png)
 
 Clock１でプロジェクト作成します．
 
