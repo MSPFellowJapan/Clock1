@@ -187,7 +187,8 @@ font-size: 200px;
 
 これは先ほどの`p`タグを内包している`div.fixedlayout`のパラメータを設定しています．
 `display: -ms-flexbox`,`-ms-flex-align:center`,`-ms-flex-pack:center`によって，画面中央に配置されます．`font-size`で文字を多くします．
-[-ms-flexbox](http://msdn.microsoft.com/ja-jp/library/ie/hh673531(v=vs.85).aspx)
+
+[-ms-flexbox](http://msdn.microsoft.com/ja-jp/library/ie/hh673531\(v=vs.85\).aspx)
 
 
 さて，ストアアプリが実行される画面サイズは各デバイスで異なります．これを緩和するために`WinJS.UI.ViewBox`を使います．HTMLの`body`直下を見てみましょう．
